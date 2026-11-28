@@ -92,6 +92,7 @@ graph TD
 
 ---
 
+
 #### 2. PayPal Spend Intelligence Agent
 > **Sandbox-first payment monitoring & spend intelligence** — Go backend with PostgreSQL, PayPal Sandbox webhooks, deterministic anomaly detection, and evidence-grounded AI insights.
 
@@ -116,6 +117,7 @@ graph TD
 
 ---
 
+
 #### 3. PRESS EXIT — Event-Level Football Analytics
 > **AQX Sports Analytics Data Bowl 4.0 entry** — Reconstructs post-pressure possession outcomes from StatsBomb 2022 FIFA World Cup data (64 matches, 234K events, 16K pressure rows).
 
@@ -139,6 +141,7 @@ graph TD
 
 ---
 
+
 #### 4. Cloud Portfolio Platform
 > **Containerized three-tier application** — FastAPI REST API, PostgreSQL, Nginx reverse proxy, Docker Compose orchestration, GitHub Actions CI with integration tests.
 
@@ -150,6 +153,7 @@ graph TD
 | **Repo** | [github.com/pavankumargp6/cloud-portfolio-platform](https://github.com/pavankumargp6/cloud-portfolio-platform) |
 
 ---
+
 
 #### 5. AI Gym Fitness Assistant (UNLOX Fitness)
 > **Full-stack fitness application** — Next.js 16 + FastAPI, computer-vision rep counting (MediaPipe), AI diet/chat, WebSocket real-time telemetry, analytics dashboard.
@@ -164,6 +168,7 @@ graph TD
 
 ---
 
+
 #### 6. Hotel Booking Chatbot — Amazon Lex V2 + AWS Lambda
 > **Serverless conversational booking** — Lex V2 intent with 4 slots, Python Lambda fulfillment, DynamoDB persistence (idempotent, TTL), 122 tests, SAM deployment.
 
@@ -176,6 +181,7 @@ graph TD
 | **Limitations** | Simulated only (no real reservation/payment) • `en_US` only • No availability check |
 
 ---
+
 
 ### 🌍 Open Source Contributions
 
@@ -192,6 +198,7 @@ Verified external contributions to established projects. Statuses reflect curren
 
 ---
 
+
 ### 📈 Project Highlights at a Glance
 
 | Project | Domain | Primary Language | Stars | Key Signal |
@@ -205,6 +212,7 @@ Verified external contributions to established projects. Statuses reflect curren
 
 ---
 
+
 ### 📫 Connect
 
 - **GitHub:** [@pavankumargp6](https://github.com/pavankumargp6)
@@ -212,6 +220,7 @@ Verified external contributions to established projects. Statuses reflect curren
 - **LinkedIn:** [linkedin.com/in/pavankumargp6](https://linkedin.com/in/pavankumargp6)
 
 ---
+
 
 <p align="center">
   <b>Build. Learn. Contribute.</b>
